@@ -6,7 +6,7 @@
  ************************************************************************/
 
 #include<iostream>
-#include"proxy.h"
+#include"proxy.cpp"
 using namespace std;
 int main(){
 	SchoolGirl* girl = new SchoolGirl();
